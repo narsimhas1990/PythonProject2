@@ -1,5 +1,8 @@
 print("New Commit asacasddasdsa5");
-for i in range(1, 4):
-    j = i * 2
-    print(f"i is {i} and j is {j}")
+items = {"Coffee": 2.2, "Tea": 1.5, "Chocolate": 2.5}
+for item in items.keys()
+     income = 0
+      qty = input(f"How many {item}s have you sold? ")
+     income = income + qty * items[item]
+print(f"\nThe income today was £{income:0.2f}")
 
