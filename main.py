@@ -1,2 +1,2 @@
-print("New Commit asaaasdsadsddasdasagjkhhssadjcasddasdzxcsa5");
+print("New Commit asaaasdsadsd");
 print("New Commit asacasdsdasdasdfdsfasdsasasdasdsadaasasdsadasddasdzxcsa5");
